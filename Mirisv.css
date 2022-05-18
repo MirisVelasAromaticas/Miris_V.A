@@ -235,27 +235,27 @@ margin-bottom: 1.6em;
     }
 @keyframes banner{
   0%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/banner.png);
+    background-image: url(Imagenes/banner.png);
   }
   25%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/banner.png);
+    background-image: url(Imagenes/banner.png);
   }
   26%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/velas01.jpeg);
+    background-image: url(Imagenes/velas01.jpeg);
   }
   50%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/velas01.jpeg);
+    background-image: url(Imagenes/velas01.jpeg);
   }
   51%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/velas02.jpeg);
+    background-image: url(Imagenes/velas02.jpeg);
   }
   75%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/velas02.jpeg);
+    background-image: url(Imagenes/velas02.jpeg);
   }
   76%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/velas03.jpeg);
+    background-image: url(Imagenes/velas03.jpeg);
   }
   100%{
-    background-image: url(C:/Users/dylan/Desktop/Miris/Imagenes/velas03.jpeg);
+    background-image: url(Imagenes/velas03.jpeg);
   }
 }
